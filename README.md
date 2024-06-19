@@ -8,6 +8,7 @@ A creative and interactive light bulb animation with a switch, built using HTML,
 
 - [Overview](#overview)
 - [Features](#features)
+- [Live Preview](#live-preview)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -23,26 +24,23 @@ This project showcases a visually appealing light bulb animation with a switch. 
 - Interactive switch with a click sound effect.
 - Responsive design for various screen sizes.
 
+## Live Preview
+
+You can view a live preview of the light bulb animation [here](https://light-bulb-animation-by-manishkmr49.netlify.app/).
+
 ## Installation
 
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/light-bulb-animation.git
-  ```
- 2. Open this directory:
-` cd light-bulb-animation `
-``````
-## Usage 
+   git clone https://github.com/manishkmr49/Light-Bulb-Animation.git
 
-Open the index.html file in your preferred web browser to view the light bulb animation. Click on the switch to toggle the light bulb on and off, accompanied by a satisfying click sound effect.
+Navigate to the project directory:
 
-## Contributing
+cd Light-Bulb-Animation
 
-If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Bug reports, suggestions, and feedback are also welcome!
-
-## License
-
+##License
+This project is licensed under the MIT License.
 
 Feel free to customize this Markdown code based on additional details about your project or specific instructions for users.
 
