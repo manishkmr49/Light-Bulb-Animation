@@ -35,9 +35,6 @@ You can view a live preview of the light bulb animation [here](https://light-bul
    ```bash
    git clone https://github.com/manishkmr49/Light-Bulb-Animation.git
 
-Navigate to the project directory:
-
-cd Light-Bulb-Animation
 
 ##License
 This project is licensed under the MIT License.
